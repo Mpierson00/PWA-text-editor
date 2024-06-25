@@ -64,7 +64,8 @@ Work Offline:
 - Data Persistence: Saves notes using IndexedDB for offline access.
 
 ## Screenshots
-[Add screenshots here]
+
+![Screenshot](./client/src/images/screenshot.png)
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code adheres to the project's coding standards and includes appropriate documentation.

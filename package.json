@@ -12,13 +12,14 @@
     "client": "cd client && npm start"
   },
   "keywords": [],
-  "author": "",
+  "author": "Michael Pierson",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
     "if-env": "^1.0.4"
   },
   "devDependencies": {
-    "concurrently": "^5.2.0"
+    "concurrently": "^5.2.0",
+    "nodemon": "^1.4.1"
   }
 }
